@@ -1,0 +1,1 @@
+These assignments are part of Python for DataScience L2 training
